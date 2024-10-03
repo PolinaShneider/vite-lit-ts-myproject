@@ -77,6 +77,5 @@ export const Modal = createComponent({
   events: {
     handleSave: 'onSave',
     onCancel: 'onCancel',
-    onToggle: 'toggleItem',
   },
 });
